@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXoxOWdwOW85enZzazZkanlydmc1emVxOWx3NGcwN2NrYWg1b3h5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13bGgH9VnEDsuA/giphy.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.weather {
+   
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    
+}
+
+h1 {
+    color: #333;
+}
+
+#location {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#temperature {
+    font-size: 48px;
+    font-weight: bold;
+}
+#description {
+    margin-top: 10px;
+    font-size: 20px;
+}
+ 
